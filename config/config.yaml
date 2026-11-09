@@ -1,0 +1,4 @@
+leads_per_day: 10        # how many leads to find each day
+output_dir: leads        # where the files are saved
+max_rounds: 6            # how many search tries per day before it stops
+model: claude-sonnet-5-5 # the AI model that does the research
